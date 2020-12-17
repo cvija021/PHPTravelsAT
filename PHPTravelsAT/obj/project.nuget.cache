@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AYZTnxQLdFCzss0TN8+jM/Ggr0JU8PS7+Zzu4RAIk7HgURRej+W9OU/ZDYYfPHnWGNgdg+JkJYGJHH3H0Ll8yg==",
+  "dgSpecHash": "78b890lrOIY5mAYWAMifeW4uIF+pe6aWNnb3T82LLSwtp/+mXRZg2GKKBc2ZGwDsadlhybWoaLrjTmLr5AVs3Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\panonit\\Desktop\\PHPTravelsAT\\PHPTravelsAT\\PHPTravelsAT.csproj",
+  "projectFilePath": "C:\\Users\\panonit\\Documents\\GitHub\\PHPTravelsAT\\PHPTravelsAT\\PHPTravelsAT.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\panonit\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
     "C:\\Users\\panonit\\.nuget\\packages\\microsoft.codecoverage\\16.8.3\\microsoft.codecoverage.16.8.3.nupkg.sha512",

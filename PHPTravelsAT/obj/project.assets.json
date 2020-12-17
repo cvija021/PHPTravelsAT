@@ -4660,11 +4660,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\panonit\\Desktop\\PHPTravelsAT\\PHPTravelsAT\\PHPTravelsAT.csproj",
+      "projectUniqueName": "C:\\Users\\panonit\\Documents\\GitHub\\PHPTravelsAT\\PHPTravelsAT\\PHPTravelsAT.csproj",
       "projectName": "PHPTravelsAT",
-      "projectPath": "C:\\Users\\panonit\\Desktop\\PHPTravelsAT\\PHPTravelsAT\\PHPTravelsAT.csproj",
+      "projectPath": "C:\\Users\\panonit\\Documents\\GitHub\\PHPTravelsAT\\PHPTravelsAT\\PHPTravelsAT.csproj",
       "packagesPath": "C:\\Users\\panonit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\panonit\\Desktop\\PHPTravelsAT\\PHPTravelsAT\\obj\\",
+      "outputPath": "C:\\Users\\panonit\\Documents\\GitHub\\PHPTravelsAT\\PHPTravelsAT\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
