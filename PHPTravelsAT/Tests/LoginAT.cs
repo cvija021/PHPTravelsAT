@@ -27,6 +27,7 @@ namespace PHPTravelsAT
             
             wait.Until(ExpectedConditions.ElementIsVisible(By.ClassName("header-logo")));
             // Test line
+            // Second test line
             Assert.Pass();
         }
 
